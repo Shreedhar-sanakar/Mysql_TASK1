@@ -1,0 +1,6 @@
+1. Create tables for the above list given[1](https://user-images.githubusercontent.com/99680746/168139251-c36b11d6-5fe3-4540-87f5-efbfde2a0abc.jpg)
+2. insert at least 5 rows of values in each table![2](https://user-images.githubusercontent.com/99680746/168139572-8e6b8dba-2ea6-4eff-9dcd-0bf2900c4755.jpg)
+3. get number problems solved in codekata by combining the users![3](https://user-images.githubusercontent.com/99680746/168139773-aeebfd38-deee-4cdd-8f29-7532a67579af.jpg)
+4. display the no of company drives attended by a user![4](https://user-images.githubusercontent.com/99680746/168139921-994c6837-51ac-4e19-8e3c-343d741d493d.jpg)
+5.list all the mentors![5](https://user-images.githubusercontent.com/99680746/168140110-5566e443-2dd7-4230-952d-ff983a52eaad.jpg)
+6.list the number of students that are assigned for a mentor![6](https://user-images.githubusercontent.com/99680746/168140194-30d9bfe6-e3d8-4de0-91f6-d55f8142e475.jpg)
